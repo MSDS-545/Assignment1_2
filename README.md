@@ -1,8 +1,4 @@
-# \# Assignment1\_2
+﻿# Assignment1_2
 
-# This is the MAIN branch version of line 2
-
-# \## Main Branch Update - Latest Change
-
-# \## MAIN BRANCH EDIT - Added by main
-
+## Project Documentation
+This line will cause a conflict - MAIN VERSION
